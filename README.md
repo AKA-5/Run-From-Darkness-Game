@@ -5,9 +5,5 @@ The game is a simple yet engaging experience where the player must reach the end
 I developed the game using Unity and C#. I also utilized Amazon Q Developer, which significantly helped me write efficient code snippets and provided suggestions for improving my code. This tool was invaluable in enhancing my coding process.
 
 ### Gameplay Video
-
-<video width="800" controls>
-  <source src="videos/DemoVideo.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-
+Click on the Image to Play
+[![Watch the video](https://img.youtube.com/vi/AqB_h6q6TiM/0.jpg)](https://youtu.be/AqB_h6q6TiM)
