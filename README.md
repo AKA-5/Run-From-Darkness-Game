@@ -7,6 +7,7 @@ I developed the game using Unity and C#. I also utilized Amazon Q Developer, whi
 ### Gameplay Video
 
 <video width="800" controls>
-  <source src="videos/Demo%20Video.mp4" type="video/mp4">
+  <source src="videos/DemoVideo.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
+
